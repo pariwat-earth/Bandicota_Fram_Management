@@ -1,0 +1,6 @@
+Neo_Mint = '#34D399'
+Deep_Purple = '#8B5CF6'
+White = '#FFFFFF'
+Grey = '#757575'
+Black = '#000000'
+Red= '#FF0000'
