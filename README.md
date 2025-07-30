@@ -37,8 +37,9 @@ I hope this project can be a show or sample case for those who need to learn and
 
 ## Run the app
 
-1.init-DB-farm.sql
-2.init-DB-farm_ad.sql
+1.start app 1 time for create database
+2.run init-DB-farm.sql
+3.run init-DB-farm_ad.sql
 
 ### uv
 
