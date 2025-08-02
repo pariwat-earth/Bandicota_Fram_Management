@@ -1,5 +1,5 @@
 # BandicotaFramManagement App Project
-## MSc. Business Software Development #17 CU
+## MSc. Business Software Development #16 chulalongkorn university(CU)
 
 Hello everyone,
 
